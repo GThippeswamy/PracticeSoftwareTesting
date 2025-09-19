@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Demo_Web_Shop-QA%20Automation-blue?style=for-the-badge&logo=selenium" alt="Project Badge"/>
+  <img src="https://img.shields.io/badge/PracticeSoftwareTesting-QA%20Automation-blue?style=for-the-badge&logo=selenium" alt="Project Badge"/>
 </p>
 
-<h1 align="center">🛍️ PracticeSoftwareTesting/h1>
+<h1 align="center">🛍️ PracticeSoftwareTesting</h1>
 <p align="center">
   <strong>End-to-End E-Commerce Test Automation | Selenium + Java + TestNG + POM</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/GThippeswamy/Demo-Web-Shop" alt="Repo Size"/>
-  <img src="https://img.shields.io/github/contributors/GThippeswamy/Demo-Web-Shop" alt="Contributors"/>
-  <img src="https://img.shields.io/github/stars/GThippeswamy/Demo-Web-Shop?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/GThippeswamy/Demo-Web-Shop?style=social" alt="Forks"/>
-  <img src="https://img.shields.io/github/license/GThippeswamy/Demo-Web-Shop" alt="License"/>
+  <img src="https://img.shields.io/github/repo-size/GThippeswamy/PracticeSoftwareTesting" alt="Repo Size"/>
+  <img src="https://img.shields.io/github/contributors/GThippeswamy/PracticeSoftwareTesting" alt="Contributors"/>
+  <img src="https://img.shields.io/github/stars/GThippeswamy/PracticeSoftwareTesting?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/GThippeswamy/PracticeSoftwareTesting?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/github/license/GThippeswamy/PracticeSoftwareTesting" alt="License"/>
 </p>
 
 ---
 
 ## 🌟 Overview
-Professional **E-Commerce Test Automation Framework** for **Demo Web Shop India**.  
+Professional **E-Commerce Test Automation Framework** for **PracticeSoftwareTesting.com**.  
 Designed to **showcase skills in QA & Automation**:
 
 - **User Registration & Login**  
@@ -34,13 +34,13 @@ Designed to **showcase skills in QA & Automation**:
 
 <div align="center">
 
-| Feature | Status |
-|---------|--------|
+| Feature                  | Status     |
+|--------------------------|------------|
 | Fully Automated UI Tests | ✅ Completed |
-| Page Object Model (POM) | ✅ Implemented |
-| TestNG Reports | ✅ Available |
-| Cross-Browser Testing | ✅ Ready |
-| Logging & Reporting | ✅ Detailed |
+| Page Object Model (POM)  | ✅ Implemented |
+| TestNG Reports           | ✅ Available |
+| Cross-Browser Testing    | ✅ Ready |
+| Logging & Reporting      | ✅ Detailed |
 
 </div>
 
@@ -58,3 +58,4 @@ Designed to **showcase skills in QA & Automation**:
 ---
 
 ## 🗂 Project Structure
+
